@@ -1,4 +1,5 @@
 # Influencer Ratio
+![Uploading clop_2026-08-16_586.png…]()
 
 A macOS menu bar app that snaps the **frontmost window of any app** to a fixed
 recording aspect ratio — vertical 9:16 for phone, 16:9 for landscape — so screen
