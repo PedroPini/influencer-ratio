@@ -1,4 +1,9 @@
 # Influencer Ratio
+
+
+https://github.com/user-attachments/assets/638a4d32-3910-405e-af6d-14b494b6a0ff
+
+
 <img width="556" height="856" alt="clop_2026-08-16_587" src="https://github.com/user-attachments/assets/c085e74b-2f40-45e6-8b9c-fda4e3323365" />
 
 
